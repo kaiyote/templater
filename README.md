@@ -11,7 +11,8 @@ Contents
 --------
 - [Installation] (#installation)
 - [Usage] (#usage)
-- Features
+
+#####Features
 - [Basic Properties] (#basic-properties)
 - [Nested Properties] (#nested-properties)
 - [Functions] (#functions)
