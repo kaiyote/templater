@@ -9,6 +9,7 @@ A tiny\* javascript templating engine with all** of the bells and whistles you'v
 - [Installation] (#installation)
 - [Usage] (#usage)
 - [Todo] (#todo)
+- [Dependencies] (#dependencies)
 - [Basic Syntax] (#basic-syntax)
 
 ####Features
@@ -33,6 +34,9 @@ document.querySelector('#doodad').innerHTML = new Templater(templateString).comp
 All items that should be replaced are wrapped in two sets of curly braces.  There is no HTML escaping, so you have to trust the data you're running the template on.
 
 See below for how to use the features of the templating engine.
+
+###Dependencies
+1. Nothing.  Templater is dependent on absolutely nothing, for the most absolutely lightweight experience possible.
 
 ###Todo
 1. Inverse conditionals (*not* something, ^ syntax)
